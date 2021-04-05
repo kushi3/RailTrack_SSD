@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rail Track Dataset</folder>
+	<filename>25.jpg</filename>
+	<path>C:\Users\Sree Archu\Downloads\Rail Track Dataset-20210324T154212Z-001\Rail Track Dataset\25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>350</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>28</ymin>
+			<xmax>409</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>
